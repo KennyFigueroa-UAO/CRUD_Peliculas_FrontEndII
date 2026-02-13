@@ -36,12 +36,14 @@ Este proyecto es un CRUD (Crear, Leer, Actualizar, Eliminar) de películas, real
 
 Para comprender mejor los conceptos y la implementación de LocalStorage en este proyecto, revisa el siguiente material de estudio:
 
-- [Video de LocalStorage en YouTube](https://www.youtube.com)
+- [Video de LocalStorage en YouTube](https://youtu.be/hb8O0qRqiSk?si=smeC8EOJwvpbf4Ue)
+- [Videos CRUD Películas](https://drive.google.com/drive/folders/1QrHIwihKbs03zPDWW-kg2TT7v1ahz-UU)
+- [Código diseño ya realizado.](https://drive.google.com/drive/folders/1hnjhzMX3IvXhX07RmD8U6JRSMRKAPHak)
 
 ## Estructura del Proyecto
 
 - `index.html`: Página principal con el formulario y la interfaz de usuario.
-- `script.js`: Lógica de JavaScript que maneja el CRUD de películas y la integración con LocalStorage.
+- `localStorage.js`: Lógica de JavaScript que maneja el CRUD de películas y la integración con LocalStorage.
 - `style.css`: Estilos básicos para la presentación de la interfaz.
 
 ## Notas
